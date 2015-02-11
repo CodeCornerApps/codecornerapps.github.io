@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mark's Code Corner]]></title>
+  <link href="http://codecornerapps.github.io/atom.xml" rel="self"/>
+  <link href="http://codecornerapps.github.io/"/>
+  <updated>2015-02-10T22:19:18-05:00</updated>
+  <id>http://codecornerapps.github.io/</id>
+  <author>
+    <name><![CDATA[Mark Robinson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://codecornerapps.github.io/blog/2015/02/10/hello-world/"/>
+    <updated>2015-02-10T22:18:37-05:00</updated>
+    <id>http://codecornerapps.github.io/blog/2015/02/10/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

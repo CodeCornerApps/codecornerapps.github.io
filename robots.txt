@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://codecornerapps.github.io/sitemap.xml 
