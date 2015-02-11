@@ -4,7 +4,7 @@
   <title><![CDATA[Mark's Code Corner]]></title>
   <link href="http://codecornerapps.github.io/atom.xml" rel="self"/>
   <link href="http://codecornerapps.github.io/"/>
-  <updated>2015-02-11T14:11:43-05:00</updated>
+  <updated>2015-02-11T15:12:26-05:00</updated>
   <id>http://codecornerapps.github.io/</id>
   <author>
     <name><![CDATA[Mark Robinson]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[About Me]]></title>
-    <link href="http://codecornerapps.github.io/blog/2015/02/11/about-me/"/>
-    <updated>2015-02-11T12:00:00-05:00</updated>
-    <id>http://codecornerapps.github.io/blog/2015/02/11/about-me</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[What the Older Generation Wants in Portable PCs]]></title>
