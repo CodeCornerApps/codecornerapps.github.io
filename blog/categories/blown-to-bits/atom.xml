@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Mark's Code Corner]]></title>
-  <link href="http://codecornerapps.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blown to Bits | Mark's Code Corner]]></title>
+  <link href="http://codecornerapps.github.io/blog/categories/blown-to-bits/atom.xml" rel="self"/>
   <link href="http://codecornerapps.github.io/"/>
   <updated>2015-02-11T13:04:03-05:00</updated>
   <id>http://codecornerapps.github.io/</id>
@@ -14,15 +14,6 @@
 
   
   <entry>
-    <title type="html"><![CDATA[About Me]]></title>
-    <link href="http://codecornerapps.github.io/blog/2015/02/11/about-me/"/>
-    <updated>2015-02-11T12:00:00-05:00</updated>
-    <id>http://codecornerapps.github.io/blog/2015/02/11/about-me</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[What the Older Generation Wants in Portable PCs]]></title>
     <link href="http://codecornerapps.github.io/blog/2015/02/10/what-the-older-generations-want-in-a-portable-pc/"/>
     <updated>2015-02-10T23:40:00-05:00</updated>
@@ -32,15 +23,6 @@
 <p>Portable computers called “chromebooks” offer Google voice search. Each chromebook has a microphone built-in. So I recommended the current Amazon best-selling chromebook, the Acer C720, to my mother. It’s easily portable, has long battery life, and most-of-all has active voice search functionality. With this chromebook, she would have the capability to ask questions to Google and receive responses like I do on my Nexus 5. It would be an interactive and personable experience. My mother already uses Google Drive’s suite of office tools with her Google account, so it was a great choice. She’s already familiar with the fundamentals of a cloud based system. The tighter integration between these tools and chromebooks would be icing-on-the-cake.</p>
 
 <p>The older generations seem to want personal computers with features that “just work out-of-the-box.” My mother dreads configuring settings because she doesn’t know nor want to learn about the inner-workings of programs that run in the background. The chromebook is the answer to this predicament. Chromebooks are minimal-effort machines that work right out-of-the-box. There is no device on the market today with features built-in that would serve my aging mother better than a chromebook would.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://codecornerapps.github.io/blog/2015/02/10/hello-world/"/>
-    <updated>2015-02-10T22:15:00-05:00</updated>
-    <id>http://codecornerapps.github.io/blog/2015/02/10/hello-world</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

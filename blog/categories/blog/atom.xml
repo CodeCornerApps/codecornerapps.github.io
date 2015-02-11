@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Mark's Code Corner]]></title>
-  <link href="http://codecornerapps.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blog | Mark's Code Corner]]></title>
+  <link href="http://codecornerapps.github.io/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://codecornerapps.github.io/"/>
   <updated>2015-02-11T13:04:03-05:00</updated>
   <id>http://codecornerapps.github.io/</id>
