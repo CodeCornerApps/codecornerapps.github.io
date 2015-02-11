@@ -1,1 +1,1 @@
-echo 'codecornerapps.com' > source/cname
+echo codecornerapps.com > source/CNAME
