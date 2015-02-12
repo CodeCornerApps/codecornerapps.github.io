@@ -4,7 +4,7 @@
   <title><![CDATA[Mark's Code Corner]]></title>
   <link href="http://codecornerapps.github.io/atom.xml" rel="self"/>
   <link href="http://codecornerapps.github.io/"/>
-  <updated>2015-02-12T17:05:08-05:00</updated>
+  <updated>2015-02-12T17:32:22-05:00</updated>
   <id>http://codecornerapps.github.io/</id>
   <author>
     <name><![CDATA[Mark Robinson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[The Importance of Owning a Website]]></title>
     <link href="http://codecornerapps.github.io/blog/2015/02/12/the-importance-of-owning-a-website/"/>
-    <updated>2015-02-12T16:30:00-05:00</updated>
+    <updated>2015-02-12T17:30:00-05:00</updated>
     <id>http://codecornerapps.github.io/blog/2015/02/12/the-importance-of-owning-a-website</id>
     <content type="html"><![CDATA[<p>Today, one of my friends asked me if he should buy a .com website. At the time, I didn&rsquo;t know why he&rsquo;d even need to own one &ndash; so I asked &ldquo;why do you want to own a website?&rdquo; He told me that he wants to own a place on the internet that&rsquo;ll let him develop more complex applications that use MySQL to store user and project data. He also said that he wanted to make a blog. Given these circumstances, I thought it&rsquo;d be a awesome endeavor for him. I recommended a website host with accordingly priced plans that would suit his needs.</p>
 
@@ -24,7 +24,7 @@
 
 <p>However, you will need a domain name in the future when you want to have more website functionality than Google Sites provides. It&rsquo;ll be handy to have in a résumé. Background server side processes like cron jobs, automatic backup, maintainance of unlimited traffic / storage / subdomains / email addresses / etc, and MySQL database will only be available to you if you rent or own a server. That&rsquo;s why you need a domain, and what you can do with it. The possibilities are only limited by your imagination at that point.</p>
 
-<p>If you don&rsquo;t have your own domain name, buy one. They&rsquo;re cheap and you won&rsquo;t regret your purchase. Best of all, if you ever decide that you don&rsquo;t need a domain name, simply let the registration expire.</p>
+<p>If you don&rsquo;t have your own domain name, buy one. It&rsquo;s cheap and you won&rsquo;t regret your purchase. Best of all, if you ever decide that you don&rsquo;t need a domain name, simply let the registration expire.</p>
 ]]></content>
   </entry>
   
